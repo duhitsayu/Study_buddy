@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 
-genai.configure(api_key="AIzaSyBychjGByE5hsp5R4rpKtFBb2u5bLvYFcg")
+genai.configure(api_key="[your_api_key]")
 model = genai.GenerativeModel("gemini-1.5-flash") 
 
 st.title("📚 Personalized Study Buddy")
