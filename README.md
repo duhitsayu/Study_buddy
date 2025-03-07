@@ -1,7 +1,7 @@
 
 # Personalized Study Buddy App
 
-->
+-> [try it here](https://huggingface.co/spaces/duhitsayu/studybuddy)
 
 A smart, AI-powered learning tool. Enter any topic, choose a mode (Explain or Quiz), and get instant, personalized study content—perfect for students and learners! This app leverages cutting-edge AI to generate beginner-friendly explanations or multiple-choice quizzes on demand.
 ## Screenshots
