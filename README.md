@@ -83,7 +83,7 @@ Ran out of OpenAI credits? Try these:
 MIT License—free to use, modify, and share. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
-- Built with ❤️ by [akki].  
+- Built with ❤️ by akki.  
 
 
 ---
